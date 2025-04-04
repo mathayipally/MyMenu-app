@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "My Ice Task2"
+rootProject.name = "Ice Task2"
 include(":app")
  
